@@ -25,7 +25,7 @@ const music_list = [
         img : 'Capa_Paralelo30.jpg',
         name : '1. Que se Pasa',
         artist : '(1978) Paralelo 30',
-        music : 'music/01QueSePasa.mp3'
+        music : '01QueSePasa.mp3'
     },
   
     
@@ -34,67 +34,67 @@ const music_list = [
         img : 'Capa_Paralelo30.jpg',
         name : '2. Sem Rei ',
         artist : '(1978) Paralelo 30',
-        music : 'music/02SemRei.mp3'
+        music : '02SemRei.mp3'
     },
     {
         img : 'Capa_Paralelo30.jpg',
         name : '3. Águias ',
         artist : '(1978) Paralelo 30',
-        music : 'music/03Aguias.mp3'
+        music : '03Aguias.mp3'
     },
     
        {
         img : 'Capa_Paralelo30.jpg',
         name : '4. Maria da Paz',
         artist : '(1978) Paralelo 30',
-        music : 'music/04MariaDaPaz.mp3'
+        music : '04MariaDaPaz.mp3'
     },   {
         img : 'Capa_Paralelo30.jpg',
         name : '5. Água benta',
         artist : '(1978) Paralelo 30',
-        music : 'music/05AguaBenta.mp3'
+        music : '05AguaBenta.mp3'
     },
        {
         img : 'Capa_Paralelo30.jpg',
         name : '6. Fronteiras',
         artist : '(1978) Paralelo 30',
-        music : 'music/06Fronteiras.mp3'
+        music : '06Fronteiras.mp3'
     },
     
        {
         img : 'Capa_Paralelo30.jpg',
         name : '7. Te Procuro Lá,
         artist : '(1978) Paralelo 30',
-        music : 'music/07TeProcuroLa.mp3'
+        music : '07TeProcuroLa.mp3'
     },
     
        {
         img : 'Capa_Paralelo30.jpg',
         name : '8. De Banquetes e Jantares',
         artist : '(1978) Paralelo 30',
-        music : 'music/08DeBanquetesEJantares.mp3'
+        music : '08DeBanquetesEJantares.mp3'
     },
        {
         img : 'Capa_Paralelo30.jpg',
         name : '9. Ruínas de um Sonho',
         artist : '(1978) Paralelo 30',
-        music : 'music/09RuinasDeUmSonho.mp3'
+        music : '09RuinasDeUmSonho.mp3'
     },
        {
         img : 'Capa_Paralelo30.jpg',
         name : '10. Admirado por Todos',
         artist : '(1978) Paralelo 30',
-        music : 'music/10AdmiradoPorTodos.mp3'
+        music : '10AdmiradoPorTodos.mp3'
     },   {
         img : 'Capa_Paralelo30.jpg',
         name : '11. Como Relâmpago no Céu',
         artist : '(1978) Paralelo 30',
-        music : 'music/11ComoRelampagoNoCeu.mp3'
+        music : '11ComoRelampagoNoCeu.mp3'
     },   {
         img : 'Capa_Paralelo30.jpg',
         name : '12. Rasa Calamidade',
         artist : '(1978) Paralelo 30',
-        music : 'music/12RasaCalamidade.mp3'
+        music : '12RasaCalamidade.mp3'
     },
     
 
