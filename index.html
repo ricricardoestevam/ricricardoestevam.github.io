@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+		<link rel="stylesheet" type="text/css" >
+
+
+	<style>
+#Videosric {
+    
+background-color: #feec71;
+
+} 
+</style>
+	<meta charset="utf-8">
+
+		
+
+	<title>Vídeos</title>
+</head>
+
+
+	
+
+
+	
+
+	
+
+<script>
+function includeHTML() {
+  var z, i, elmnt, file, xhttp;
+  /*loop through a collection of all HTML elements:*/
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain attribute:*/
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      /*make an HTTP request using the attribute value as the file name:*/
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /*remove the attribute, and call this function once more:*/
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      }      
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /*exit the function:*/
+      return;
+    }
+  }
+};
+</script>
+	
+<body>
+	
+<body>
+	
+		<div id="logovideos">
+	<img src="logovideos.png">
+</div>
+	
+<div w3-include-html="contentmusicasbrasileirasbebetoalves.html" ></div>
+<script>
+includeHTML();
+</script>
+	
+
+	
+
+	
+	
+<div id="meiovideos">
+
+<div id="paralelo30">
+<a href='paralelo30.html'><img width="290" height="290" src="Capa_Paralelo30.jpg"></br>(1978) Paralelo 30</a>
+</div>
+<div id="bebetoalves">
+<a href='bebetoalves.html'><img width="290" height="290" src="Capa_Bebeto_Alves_1981.jpg"></br>(1981) Bebeto Alves</a>
+</div>
+<div id="noticiaurgente">
+<a href='noticiaurgente.html'><img width="290" height="290" src="Capa_Notícia_Urgente_1983.jpg"></br>(1983) Notícia Urgente</a>
+</div>
+<div id="quandoeuchegar">
+<a href='quandoeuchegar.html'><img width="290" height="290" src="Capa_QuandoEuChegar1984.jpg"></br>(1984) Quando Eu Chegar (Compacto)</a>
+</div>
+<div id="novopais">
+<a href='novopais.html'><img width="290" height="290" src="Capa_NovoPaís1985.jpg"></br>(1985) Novo País</a>
+</div>
+<div id="pegadas">
+<a href='pegadas.html'><img width="290" height="290" src="Capa_1987Pegadas.jpg"></br>(1987) Pegadas</a>
+</div>
+<div id="milongadepaus">
+<a href='milongadepaus.html'><img width="290" height="290" src="Capa_1991MilongadePaus.jpg"></br>(1991) Milonga de Paus</a>
+</div>
+<div id="paisagem">
+<a href='paisagem.html'><img width="290" height="290" src="Capa_Paisagem.jpg"></br>(1993) Paisagem</a>
+</div>
+<div id="deacoealgodao">
+<a href='deacoealgodao.html'><img width="290" height="290" src="Capa_1994DeAçoeAlgodão.jpg"></br>(1994) De Aço e Algodão</a>
+</div>
+<div id="milongueandounstrocos">
+<a href='milongueandounstrocos.html'><img width="290" height="290" src="Capa_Milongueando.jpg"></br>(1995) Milongueando uns Troços</a>
+</div>
+<div id="mandandolenha">
+<a href='mandandolenha.html'><img width="290" height="290" src="Capa_MandandoLenha.jpg"></br>(1997) Mandando Lenha</a>
+</div>
+<div id="juntos">
+<a href='juntos.html'><img width="290" height="290" src="Capa_1998JuntosaoVivo.jpg"></br>(1998) Juntos ao Vivo</a>
+</div>
+<div id="milongamento">
+<a href='milongamento.html'><img width="290" height="290" src="Capa_1999Milongamento.jpg"></br>(1999) Milongamento</a>
+</div>
+<div id="cenas">
+<a href='cenas.html'><img width="290" height="290" src="Capa_Cenas.jpg"></br>(2010) Cenas</a>
+</div>
+<div id="ohomeminvisivel">
+<a href='ohomeminvisivel.html'><img width="290" height="290" src="Capa2019OHomemInvisivel.jpg"></br>(2019) O Homem Invisível</a>
+</div>
+<div id="dancoso">
+<a href='dancoso.html'><img width="290" height="290" src="Capa_2022DançoSó.jpg"></br>(2022) Danço Só</a>
+</div>
+
+</div>
+
+
+</body>
+</html>
