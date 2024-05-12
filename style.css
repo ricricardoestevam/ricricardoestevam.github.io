@@ -1,3 +1,10 @@
+@media (orientation: portrait)
+    body {
+        background-image:none;
+    }
+
+
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-image: url("Músicas1978Paralelo30.png"); 
