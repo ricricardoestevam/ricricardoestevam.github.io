@@ -25,7 +25,7 @@ const music_list = [
         img : 'images/Capa_Paralelo30.jpg',
         name : '1. Que se Pasa',
         artist : '(1978) Paralelo 30',
-        music : 'music/01QueSePasa.mp3'
+        music : 'music/main/01QueSePasa.mp3'
     },
   
     
@@ -34,7 +34,7 @@ const music_list = [
         img : 'images/Capa_Paralelo30.jpg',
         name : '2. Sem Rei ',
         artist : '(1978) Paralelo 30',
-        music : 'music/02SemRei.mp3'
+        music : 'music/main/02SemRei.mp3'
     },
   
     
