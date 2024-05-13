@@ -9,7 +9,7 @@ previousButton = wrapper.querySelector("#prev"),
 nextButton = wrapper.querySelector("#next"),
 progressArea = wrapper.querySelector(".progress-area"),
 progressBar = wrapper.querySelector(".progress-bar"),
-musicList = wrapper.querySelector(".music-list2"),
+musicList = wrapper.querySelector(".music-list"),
 showMoreButton = wrapper.querySelector("#more-music"),
 hideMusicButton = musicList.querySelector("#close");
 
