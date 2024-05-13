@@ -36,6 +36,20 @@ let allMusic = [
         img: "Capa_1987Pegadas",
         src: "06DepoisDaChuva"
     },
+{
+        name: "7. Um Instante do Teu Amor",
+        artist: "(1987) Pegadas",
+        img: "Capa_1987Pegadas",
+        src: "07UmInstanteDoTeuAmor"
+    },
+
+    
+    {
+        name: "8. Pegadas",
+        artist: "(1987) Pegadas",
+        img: "Capa_1987Pegadas",
+        src: "08Pegadas"
+    },
 
 {
         name: "8. Pegadas",
