@@ -40,7 +40,7 @@ let allMusic = [
  {
         name: "7. Tum Tum Tum",
         artist: "(1993) Paisagem",
-        img: "Capa_1991MilongadePaus",
+        img: "Capa_Paisagem",
         src: "07TumTumTum"
     },
 
