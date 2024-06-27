@@ -54,7 +54,7 @@ let allMusic = [
 
 
   {
-        name: "10. A Troca de Nada",
+        name: "10. A Troco de Nada",
           artist: "(1999) Milongamento",
         img: "Capa_1999Milongamento",
         src: "10ATrocaDeNada"
