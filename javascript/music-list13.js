@@ -77,12 +77,7 @@ let allMusic = [
         img: "Capa_1999Milongamento",
         src: "14Matungos"
     },
-  {
-        name: "14. Matando a Pau",
-         artist: "(1999) Milongamento",
-        img: "Capa_1999Milongamento",
-        src: "14Matando a Pau"
-    },
+ 
 
  {
         name: "1. Camperiando",
