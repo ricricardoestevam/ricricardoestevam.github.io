@@ -95,11 +95,12 @@ let allMusic = [
         src: "15IolandaDeSouzaNunes"
     },
    {
-        name: "16. Sim Sim Sim",
+        name: "16. Coisa Nova",
         artist: "(1993) Paisagem",
         img: "Capa_Paisagem",
-        src: "10SimSimSim"
+        src: "16CoisaNova"
     },
+    
 
  {
         name: "1. Paisagem",
