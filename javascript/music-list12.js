@@ -24,7 +24,7 @@ let allMusic = [
     },
 
  {
-        name: "5. Vim Vadia",
+        name: "5. Vim Vadiá",
         artist: "(1998) Juntos ao Vivo",
         img: "Capa_1998JuntosaoVivo",
         src: "05VimVadia"
