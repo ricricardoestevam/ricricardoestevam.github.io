@@ -96,9 +96,9 @@ artist: "(2020) Salvo 79/80",
         src: "15Para Eu Te Contar"
     },
  {
-        name: "1. Janelateste",
+        name: "1. Janela",
 artist: "(2020) Salvo 79/80",
-        img: "salvo",
+        img: "capasalvo",
         src: "01Janela"
     },
 
