@@ -1282,6 +1282,17 @@ margin-top: 1.6%;
 		
 }
 
+#salvo{
+    float: left;
+		margin-left: 10%;
+		border-style: solid;
+	border-color: grey;
+background-color: #fdf3bd;
+margin-top: 1.6%;
+	
+		
+}
+
 #dancoso{
     float: left;
 		margin-left: 10%;
